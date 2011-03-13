@@ -3,3 +3,7 @@ A firefox extension that, upon mouseover of a URL, will show you the actual targ
 This repository exists of:
 1) The source code for the Firefox Extension
 2) The source code of the PHP server-side parser
+
+You can host this yourself, if you simply place the site/index.php file on your own server and modify the firefox-extension / chrome / content / ff-overlay.js file. Somewhere in the middle, you'll see a reference to my URL.
+
+This is just a proof-of-concept, and still has quite a few quirks in it. Feel free to add any feedback.
