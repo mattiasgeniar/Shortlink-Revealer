@@ -1,0 +1,5 @@
+A firefox extension that, upon mouseover of a URL, will show you the actual target of that URL - not the bit.ly or other shortlink.
+
+This repository exists of:
+1) The source code for the Firefox Extension
+2) The source code of the PHP server-side parser
