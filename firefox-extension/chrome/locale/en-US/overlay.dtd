@@ -1,0 +1,8 @@
+<!ENTITY ShortlinkRevealer.label "Your localized menuitem">
+<!ENTITY ShortlinkRevealerContext.label "Your Menuitem">
+<!ENTITY ShortlinkRevealerContext.accesskey "Y">
+<!ENTITY ShortlinkRevealerToolbarButton.label "Your Toolbar Button">
+<!ENTITY ShortlinkRevealerToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY ShortlinkRevealerSidebar.label "Your Sidebar">
+<!ENTITY ShortlinkRevealerToolbar.name  "example">
+<!ENTITY ShortlinkRevealerToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &ShortlinkRevealerToolbar.name;">

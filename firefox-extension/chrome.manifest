@@ -1,0 +1,6 @@
+content   ShortlinkRevealer                 chrome/content/
+skin      ShortlinkRevealer   classic/1.0   chrome/skin/
+locale    ShortlinkRevealer   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://ShortlinkRevealer/content/ff-overlay.xul

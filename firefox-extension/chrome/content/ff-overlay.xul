@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://ShortlinkRevealer/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://ShortlinkRevealer/locale/overlay.dtd">
+<overlay id="ShortlinkRevealer-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="overlay.js"/>
+  <script src="ff-overlay.js"/>
+
+	<statusbar id="status-bar">
+		<statusbarpanel id="statusbar-shortlinkrevealer" label="Hello, World"  />
+	</statusbar>
+
+
+</overlay>
