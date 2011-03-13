@@ -34,7 +34,6 @@ ShortlinkRevealer.onMouseOver = function (aEvent) {
 	// - http://bit.ly/gr8mk4
 	// - http://ncl.uz/gdA0rf
 	// So: "http://" the protocol is 7 chars, the domain usually is 5-7 chars, and the hash is 5-7 chars.
-	alert('URL length: '+ doc_href.length);
 	if (doc_href.length <= 24) {	
 		// Verify the URL
 		var req = new XMLHttpRequest();
