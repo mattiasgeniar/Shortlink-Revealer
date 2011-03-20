@@ -7,3 +7,4 @@ This repository exists of:
 You can host this yourself, if you simply place the site/index.php file on your own server and modify the firefox-extension / chrome / content / ff-overlay.js file. Somewhere in the middle, you'll see a reference to my URL.
 
 This is just a proof-of-concept, and still has quite a few quirks in it. Feel free to add any feedback.
+Do not expect this to work every time. Hence, the 'beta'. :-)

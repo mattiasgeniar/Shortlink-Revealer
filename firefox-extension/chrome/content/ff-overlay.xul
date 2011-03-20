@@ -4,10 +4,4 @@
 <overlay id="ShortlinkRevealer-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <script src="overlay.js"/>
   <script src="ff-overlay.js"/>
-
-	<statusbar id="status-bar">
-		<statusbarpanel id="statusbar-shortlinkrevealer" label="Hello, World"  />
-	</statusbar>
-
-
 </overlay>
